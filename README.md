@@ -29,12 +29,12 @@ git clone https://github.com/CrowdedApp/crowded.assignments.qa
 ### 📥 Cypress Framework Installation
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/-
+git clone https://github.com/Cristian-Serbanoiu/cypress-project
 ```
 
 2️⃣ Navigate to the project directory and install dependencies:
 ```bash
-cd -
+cd cypress-project
 npm install
 ```
 
