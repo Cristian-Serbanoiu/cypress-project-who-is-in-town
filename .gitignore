@@ -1,0 +1,14 @@
+#IGNORE NODE MODULES
+node_modules
+
+#IGNORE VIDEOS
+cypress/videos
+
+#IGNORE SCREENSHOTS
+cypress/screenshots
+
+#IGNORE DOWNLOADS
+cypress/downloads
+
+#IGNORE DS STORE
+.DS_Store

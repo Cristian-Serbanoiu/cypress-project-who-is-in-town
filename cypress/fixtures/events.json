@@ -1,0 +1,124 @@
+[
+	{
+		"id": "106167615",
+		"artist_id": "54321",
+		"url": "https://www.bandsintown.com/e/106167615",
+		"on_sale_datetime": "",
+		"datetime": "Mar/15",
+		"starts_at": "Mar/15",
+		"ends_at": "",
+		"title": "Global Stadium Tour 2025",
+		"description": "",
+		"venue": {
+			"name": "SoFi Stadium",
+			"street_address": "1001 Stadium Dr",
+			"latitude": "33.9534",
+			"longitude": "-118.3387",
+			"city": "Inglewood",
+			"region": "CA",
+			"country": "Canada",
+			"postal_code": "90301",
+			"location": "Inglewood, CA"
+		},
+		"offers": [
+			{
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/106167615?app_id=123&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+				"status": "available"
+			}
+		],
+		"lineup": [
+			"Red Hot Chili Peppers",
+			"The Strokes",
+			"King Princess",
+			"Thundercat"
+		],
+		"bandsintown_plus": false,
+		"datetime_display_rule": "datetime",
+		"festival_datetime_display_rule": "",
+		"festival_start_date": "",
+		"festival_end_date": "",
+		"sold_out": false,
+		"free": false
+	},
+	{
+		"id": "106436132",
+		"artist_id": "54321",
+		"url": "https://www.bandsintown.com/e/106436132",
+		"on_sale_datetime": "",
+		"datetime": "Jun/20",
+		"starts_at": "Jun/20",
+		"ends_at": "",
+		"title": "Bonnaroo Music Festival 2025",
+		"description": "",
+		"venue": {
+			"name": "Bonnaroo Music Festival",
+			"street_address": "1560 New Bushy Branch Road",
+			"latitude": "35.4748",
+			"longitude": "-86.0504",
+			"city": "Manchester",
+			"region": "TN",
+			"country": "Canada",
+			"postal_code": "37355",
+			"location": "Manchester, TN"
+		},
+		"offers": [
+			{
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/106436132?app_id=123&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+				"status": "available"
+			}
+		],
+		"lineup": [
+			"Red Hot Chili Peppers"
+		],
+		"bandsintown_plus": false,
+		"datetime_display_rule": "range",
+		"festival_datetime_display_rule": "range",
+		"festival_start_date": "2025-06-20",
+		"festival_end_date": "2025-06-22",
+		"sold_out": false,
+		"free": false
+	},
+	{
+		"id": "106522594",
+		"artist_id": "54321",
+		"url": "https://www.bandsintown.com/e/106522594",
+		"on_sale_datetime": "",
+		"datetime": "Jun/21",
+		"starts_at": "Jun/21",
+		"ends_at": "",
+		"title": "Summer Stadium Series",
+		"description": "",
+		"venue": {
+			"name": "Fenway Park",
+			"street_address": "4 Jersey Street",
+			"latitude": "42.3467",
+			"longitude": "-71.0972",
+			"city": "Boston",
+			"region": "MA",
+			"country": "Canada",
+			"postal_code": "02215",
+			"location": "Boston, MA"
+		},
+		"offers": [
+			{
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/106522594?app_id=123&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+				"status": "available"
+			}
+		],
+		"lineup": [
+			"Red Hot Chili Peppers",
+			"St. Vincent",
+			"The Roots"
+		],
+		"bandsintown_plus": false,
+		"datetime_display_rule": "datetime",
+		"festival_datetime_display_rule": "",
+		"festival_start_date": "",
+		"festival_end_date": "",
+		"sold_out": false,
+		"free": false
+	}
+]

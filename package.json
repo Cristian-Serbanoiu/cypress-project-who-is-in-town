@@ -1,0 +1,32 @@
+{
+  "name": "cristian.serbanoiu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox",
+    "test:edge": "cypress run --browser edge",
+    "test:all-browsers": "npm run test:chrome && npm run test:firefox && npm run test:edge",
+    "test:homepage": "cypress run --spec 'cypress/e2e/homepage.cy.ts'",
+    "test:homepage-api": "cypress run --spec 'cypress/e2e/homepage_api.cy.ts'",
+    "test:accessibility": "cypress run --spec 'cypress/e2e/accessibility.cy.ts'",
+    "test:homepage:all-browsers": "npm run test:homepage --browser chrome && npm run test:homepage --browser firefox && npm run test:homepage --browser edge",
+    "test:homepage-api:all-browsers": "npm run test:homepage-api --browser chrome && npm run test:homepage-api --browser firefox && npm run test:homepage-api --browser edge",
+    "test:accessibility:all-browsers": "npm run test:accessibility --browser chrome && npm run test:accessibility --browser firefox && npm run test:accessibility --browser edge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "@types/cypress-axe": "^0.8.0",
+    "@types/node": "^22.13.10",
+    "axe-core": "^4.10.3",
+    "cypress": "^14.2.0",
+    "cypress-axe": "^1.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
