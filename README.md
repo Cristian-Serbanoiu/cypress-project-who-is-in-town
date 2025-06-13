@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ### 🎯 Test Application Setup
 1. Clone and set up the application for this framework to work:
 ```bash
-git clone https://github.com/CrowdedApp/crowded.assignments.qa
+git clone -
 ```
 
 ### 📥 Cypress Framework Installation
